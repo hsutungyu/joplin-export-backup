@@ -1,0 +1,13 @@
+# don't add any files without extension, which usually are resources in Joplin
+# this should be put at the start of .gitignore
+*
+!*/
+!*.*
+# don't add any of the notes in the repo
+*.md
+# re-include README
+!README.md
+# don't add python caches
+__pycache__
+# don't add the credentials
+cred.py
