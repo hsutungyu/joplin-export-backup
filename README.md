@@ -28,6 +28,5 @@ The utility creates a folder with the name same as the name of the notebook.<br>
 Inside the folder, all the notes and the resources (e.g., images) within the notes are exported to the folder.
 
 ## TODO
-- the backup part of the utility
 - rewrite the utility as a Joplin plugin
 - rewrite the utility to backup the whole Joplin
